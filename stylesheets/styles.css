@@ -259,4 +259,14 @@ footer {
 .profile-img img {
   width:60%;
   border-radius:999px;
+  max-width:200px;
 }
+.soc-icon {
+  }
+.soc-icon img {
+  max-width: 30px;
+  margin-right:4px;
+}
+.soc-icon img:hover {
+}
+
